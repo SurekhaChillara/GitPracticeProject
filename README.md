@@ -21,5 +21,5 @@ This is for Jenkins and Octopus
 
 This is for Release Jenkins and Octopus
 
-Deploying the pakage 
+Deploying the package to Octopus Dev environment!!!
 
